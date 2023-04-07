@@ -9,7 +9,7 @@ I am a software developer who develops himself in Istanbul. I am currently worki
 
 ##
 
-<h3> Technologies I Use ⚡ </h3>
+<h3> Connect with me ⚡ </h3>
 
 <div style="display: inline_block"><br>
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
@@ -24,7 +24,7 @@ I am a software developer who develops himself in Istanbul. I am currently worki
 
 ##
 
-<h3> Addresses where you can find me 🔍 </h3>
+<h4> Connect with me 🔍 </h4>
 
 
 <div>
