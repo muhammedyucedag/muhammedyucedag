@@ -26,6 +26,7 @@ I am a software developer who develops himself in Istanbul. I am currently worki
 
 <h3> Addresses where you can find me 🔍 </h3>
 
+
 <div>
 <a href="https://www.instagram.com/muhammedyuceedag/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/muhammed-y%C3%BCceda%C4%9F-187533250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" target="_blank"></a>
