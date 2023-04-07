@@ -11,7 +11,7 @@ I am a software developer who develops himself in Istanbul. I am currently worki
 
 <br><br>
 
-<h2> Connect With Me ⚡ </h2>
+<h2> Languages and Tools ⚡ </h2>
 
 <div style="display: inline_block"><br>
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
