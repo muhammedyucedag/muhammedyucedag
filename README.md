@@ -3,12 +3,16 @@
   </div>
 
 <h4> About Me </h4>
+
 ##
+
 👋 Hello <br>
 I am a software developer who develops himself in Istanbul. I am currently working by focusing on .Net infrastructures. From time to time I write articles about software. In addition, I share the open code sources of the prohes I wrote on my github and many social media accounts.
 
 ##
+
 <h4> Kullandığım Teknolojiler </h4>
+
 ##
 
 <div style="display: inline_block"><br>
