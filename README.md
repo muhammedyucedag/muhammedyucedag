@@ -1,4 +1,28 @@
-# muhammed-yucedag
+<div>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"><img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" style="max-width: 100%;"></a>
+  </div>
+
+👋 Merhaba! Benim Adım Muhammed
+GitHub hesabımda farklı projelerimi paylaşıyorum.
+
+🔭 Şu anda üzerinde çalıştığım şeyler
+[Proje adı] - [Proje açıklaması]
+
+🌱 Şu anda öğreniyorum
+[Bir programlama dilini, teknolojiyi veya beceriyi öğreniyorsanız buraya yazabilirsiniz.]
+
+👯 İşbirliği yapmak istediğim konular
+[Proje fikirleri veya işbirliği yapmak istediğiniz konuları yazabilirsiniz.]
+
+📫 Bana nasıl ulaşabilirsiniz
+[Sosyal medya hesapları veya e-posta adresinizi buraya yazabilirsiniz.]
+
+⚡ Eğlenceli bir gerçek
+[Buraya eğlenceli bir gerçek veya ilginç bir bilgi yazabilirsiniz.]
+
+📝 Lisans
+[Projenizde hangi lisansı kullandığınızı burada belirtebilirsiniz.]
+
 <div style="display: inline_block"><br>
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
