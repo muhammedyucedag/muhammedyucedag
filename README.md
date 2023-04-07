@@ -2,14 +2,14 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"><img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" style="max-width: 100%;"></a>
  </div>
 
-<h3> About Me 💬 </h3>
+<h2> About Me 💬 </h2>
 
 Hello <br>
 I am a software developer who develops himself in Istanbul. I am currently working by focusing on .Net infrastructures. From time to time I write articles about software. In addition, I share the open code sources of the prohes I wrote on my github and many social media accounts.
 
 ##
 
-<h3> Connect with me ⚡ </h3>
+<h2> Connect With Me ⚡ </h2>
 
 <div style="display: inline_block"><br>
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
@@ -24,7 +24,7 @@ I am a software developer who develops himself in Istanbul. I am currently worki
 
 ##
 
-<h4> Connect with me 🔍 </h4>
+<h2> Connect With Me 🔍 </h2>
 
 
 <div>
