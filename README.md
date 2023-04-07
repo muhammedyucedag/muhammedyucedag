@@ -10,7 +10,7 @@ I am a software developer who develops himself in Istanbul. I am currently worki
 
 
 <h2> Connect With Me ⚡ </h2>
-<hr>
+
 <div style="display: inline_block"><br>
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
@@ -25,7 +25,6 @@ I am a software developer who develops himself in Istanbul. I am currently worki
 
 
 <h2> Connect With Me 🔍 </h2>
-<hr>
 
 <div>
 <a href="https://www.instagram.com/muhammedyuceedag/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" target="_blank"></a>
