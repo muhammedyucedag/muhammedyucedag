@@ -7,7 +7,7 @@
 Hello <br>
 I am a software developer who develops himself in Istanbul. I am currently working by focusing on .Net infrastructures. From time to time I write articles about software. In addition, I share the open code sources of the prohes I wrote on my github and many social media accounts.
 
-
+<br><br>
 
 <h2> Connect With Me ⚡ </h2>
 
@@ -22,7 +22,7 @@ I am a software developer who develops himself in Istanbul. I am currently worki
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
-
+<br><br>
 
 <h2> Connect With Me 🔍 </h2>
 
