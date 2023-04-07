@@ -2,10 +2,17 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"><img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" style="max-width: 100%;"></a>
   </div>
 
+
+<span class="border-wrap"><img src="/sciencepal/sciencepal/blob/master/assets/Hi.gif?raw=true" alt="Hi.gif"></span> <h1> HAKKIMDA </h1>
+
 ##
 
-👋 Merhabalar
+👋 Merhabalar <br>
 İstanbulda'de kendini geliştiren bir yazılımcıyım. Şu anda .Net altyapılarına odaklanarak çalışıyorum. Zaman zaman yazılım hakkında makale yazıyorum. Ayrıca yazdığım prohelerin açık kod kaynaklarını github ve bir çok sosyal medya hesaplarımda paylaşıyorum.
+
+##
+
+<h1> Kullandığım Teknolojiler </h1>
 
 ##
 
