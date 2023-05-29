@@ -14,16 +14,17 @@
     <tbody>
         <tr>
             <td><img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='96'></td>
-            <td>Hello, my name is Fatih Deniz. I graduated from Selcuk University with my degree in Computer Technology and Programming in 2006. Until 2012 I worked in                 various positions in the IT department of many companies in Turkey. I've been living in Germany since the end of 2012. I worked actively as a system                    and network administrator for a company until May 2020. Since May 2020 I have been training on various platforms so that my knowledge is always up to                   date. I am currently training in the areas of ASP.NET Core, Java and Unity.
+            <td>I am a software developer who develops himself in Istanbul. I am currently working by focusing on .Net infrastructures. From time to time I write articles about software. In addition, I share the open code sources of the prohes I wrote on my github and many social media accounts.
             </td>
          </tr>
           <tr>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='96'></td>
-            <td>Merhaba, adım Fatih Deniz. 2006 yılında Selçuk Üniversitesi Bilgisayar Teknolojileri ve Programlama bölümünden mezun oldum. 2012 yılına kadar                           Türkiye'de birçok firmada IT bölümünde çesitli pozisyonlarda çalıştım. 2012 yılı sonundan beri Almanya'da yaşamaktayım. Mayıs 2020 yılına kadar aktif                   bir şekilde Sistem ve Ağ Yöneticisi olarak bir firmada çalıştım. Mayıs 2020 den beri çeşitli platformlarda yazılım eğitimi almakta ve bilgilerimi                       güncellemekteyim. Şuan aktif olarak ASP.NET Core, Java ve Unity alanlarında çalışmaktayım.</td>
+            <td>İstanbul'da kendini geliştiren bir yazılımcıyım. Şu anda .Net altyapılarına odaklanarak çalışıyorum. Zaman zaman yazılımlarla ilgili yazılar yazıyorum. Ayrıca yazdığım projelerin açık kod kaynaklarını github ve birçok sosyal medya hesabımda paylaşıyorum.
+          </td>
           </tr>
           <tr>
             <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" width='96'></td>
-            <td>Hallo, ich heiße Fatih Deniz. Ich habe 2006 meinen Abschluss in Computertechnologie und Programmierung an der Universität Selcuk gemacht. Bis 2012 war                  ich in verschiedenen Positionen in der IT-Abteilung vieler Unternehmen in der Türkei tätig. Ich lebe seit Ende 2012 in Deutschland. Ich habe bis Mai                    2020 aktiv als System- und Netzwerkadministrator für ein Unternehmen gearbeitet. Seit Mai 2020 bilde ich mich auf verschiedenen Plattformen fort,                       damit meine Kenntnisse immer auf den neuesten Stand sind. Ich bilde mich derzeit in den Bereichen ASP.NET Core, Java und Unity weiter.</td>
+            <td>Ich bin ein selbst entwickelter Softwareentwickler in Istanbul. Derzeit konzentriere ich mich auf .Net-Infrastrukturen. Von Zeit zu Zeit schreibe ich Artikel über Software. Ich teile auch die offenen Codequellen der Prohes, die ich auf meinem Github und vielen Social-Media-Konten geschrieben habe.</td>
           </tr>
     </tbody>
 </table>
