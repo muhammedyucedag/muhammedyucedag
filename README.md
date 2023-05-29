@@ -59,7 +59,7 @@
             <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
         <a href="https://medium.com/@muhammedyucedag" target="_blank"  rel="noopener">
-            <img align="center" src="https://img.shields.io/badge/Medium-%23333.svg?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+            <img align="center" src="https://img.shields.io/badge/Medium-%23333.svg?style=flat-square&logo=medium&logoColor=white" alt="Twitter">
         </a>
         <a href="https://www.instagram.com/muhammedyuceedag/" target="_blank">
             <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
