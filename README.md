@@ -51,6 +51,24 @@
 
 <br>
 
+ <div>
+        <h5><a>Follow me around the web:</a></h5>
+    </div>
+    <div>
+        <a href="https://www.linkedin.com/in/muhammed-y%C3%BCceda%C4%9F-187533250/" target="_blank">
+            <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="https://medium.com/@muhammedyucedag" target="_blank"  rel="noopener">
+            <img align="center" src="https://img.shields.io/badge/Medium-%231877F2.svg?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+        </a>
+        <a href="https://www.instagram.com/muhammedyuceedag/" target="_blank">
+            <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+        </a>
+        <a href="https://twitter.com/MuhammedYucedg" target="_blank"  rel="noopener">
+            <img align="center" src="https://img.shields.io/badge/Twitter-%231877F2.svg?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+        </a>
+    </div>
+    
 <h2> Connect With Me 🔍 </h2>
 
 <div>
