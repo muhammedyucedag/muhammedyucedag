@@ -53,6 +53,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/JavaScript-%ffffff.svg?style=flat&logo=postgresql&logoColor=white)
+
 
 
 <br>
