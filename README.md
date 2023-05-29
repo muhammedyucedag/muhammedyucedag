@@ -51,8 +51,8 @@
 
 <br>
 
- <div>
-        <h5><a>Follow me around the web:</a></h5>
+   <div>
+        <h2> Follow me around the web 🔍 </h2>
     </div>
     <div>
         <a href="https://www.linkedin.com/in/muhammed-y%C3%BCceda%C4%9F-187533250/" target="_blank">
