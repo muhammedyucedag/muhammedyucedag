@@ -31,7 +31,7 @@
 
 <br>
 
-<h3> Languages and Tools ⚡ </h3>
+<h4>Languages and Tools;</h4>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
@@ -52,7 +52,7 @@
 <br>
 
    <div>
-        <h3> Follow me around the web 🔍 </h3>
+        <h4>Follow me around the web;</h4>
     </div>
     <div>
         <a href="https://www.linkedin.com/in/muhammed-y%C3%BCceda%C4%9F-187533250/" target="_blank">
