@@ -69,14 +69,5 @@
         </a>
     </div>
     
-<h2> Connect With Me 🔍 </h2>
-
-<div>
-<a href="https://www.instagram.com/muhammedyuceedag/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/muhammed-y%C3%BCceda%C4%9F-187533250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" target="_blank"></a>
-   <a href="https://medium.com/@muhammedyucedag" target="_blank" ><img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&amp;logo=Medium&amp;logoColor=white" target="_blank"></a>
- <a href="https://twitter.com/MuhammedYucedg" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white" target="_blank"></a>
-  <a href="mailto:muhammedyucedag@outlook.com" target="_blank" ><img src="https://img.shields.io/badge/-Outlook-7289DA?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" target="_blank"></a>
-</div>
 
 
