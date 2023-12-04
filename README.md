@@ -20,7 +20,9 @@
     <tbody>
         <tr>
             <td><img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='96'></td>
-            <td>I am a software developer who develops himself in Istanbul. I am currently working by focusing on .Net infrastructures. From time to time I write articles about software. In addition, I share the open code sources of the prohes I wrote on my github and many social media accounts.
+            <td>As a .NET developer with about 8 months of experience, I am quite able to expand into OOP technology. I have solid knowledge of principles and clean code. I have a strong background in building web APIs, backend services, and SignalR applications.
+I am knowledgeable in using ASP.NET MVC and have knowledge of CQRS, MediatR, MSSQL, PostgreSQL, Entity Framework and LINQ.
+I am a dedicated and detail-oriented developer with a passion for creating high-performance software.
             </td>
          </tr>
           <tr>
