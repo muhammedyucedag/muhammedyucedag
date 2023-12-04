@@ -72,9 +72,6 @@ Ich bin ein engagierter und detailorientierter Entwickler mit einer Leidenschaft
         <a href="https://www.instagram.com/muhammedyuceedag/" target="_blank">
             <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
         </a>
-        <a href="https://twitter.com/MuhammedYucedg" target="_blank"  rel="noopener">
-            <img align="center" src="https://img.shields.io/badge/Twitter-%231877F2.svg?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
-        </a>
     </div>
     
 
