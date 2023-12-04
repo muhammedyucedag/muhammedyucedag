@@ -44,7 +44,7 @@ Ich bin ein engagierter und detailorientierter Entwickler mit einer Leidenschaft
 
 <h4>Languages and Tools;</h4>
 
-![C#](https://img.shields.io/badge/c#?style=flat&logo=c-sharp&logoColor=white) 
+![C#](https://img.shields.io/badge/csharp.svg?style=flat&logo=c-sharp&logoColor=white) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
