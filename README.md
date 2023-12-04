@@ -33,7 +33,9 @@ Yüksek performanslı yazılım oluşturma tutkusuna sahip, kendini adamış ve 
           </tr>
           <tr>
             <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" width='96'></td>
-            <td>Ich bin ein selbst entwickelter Softwareentwickler in Istanbul. Derzeit konzentriere ich mich auf .Net-Infrastrukturen. Von Zeit zu Zeit schreibe ich Artikel über Software. Ich teile auch die offenen Codequellen der Prohes, die ich auf meinem Github und vielen Social-Media-Konten geschrieben habe.</td>
+            <td>Als .NET-Entwickler mit etwa 8 Monaten Erfahrung bin ich durchaus in der Lage, in die OOP-Technologie zu expandieren. Ich verfüge über solide Prinzipienkenntnisse und sauberen Code. Ich verfüge über fundierte Kenntnisse in der Entwicklung von Web-APIs, Backend-Diensten und SignalR-Anwendungen.
+Ich bin mit der Verwendung von ASP.NET MVC vertraut und habe Kenntnisse in CQRS, MediatR, MSSQL, PostgreSQL, Entity Framework und LINQ.
+Ich bin ein engagierter und detailorientierter Entwickler mit einer Leidenschaft für die Entwicklung leistungsstarker Software.</td>
           </tr>
     </tbody>
 </table>
