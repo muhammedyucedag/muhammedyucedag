@@ -25,8 +25,9 @@
          </tr>
           <tr>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='96'></td>
-            <td>İstanbul'da kendini geliştiren bir yazılımcıyım. Şu anda .Net altyapılarına odaklanarak çalışıyorum. Zaman zaman yazılımlarla ilgili yazılar yazıyorum. Ayrıca yazdığım projelerin açık kod kaynaklarını github ve birçok sosyal medya hesabımda paylaşıyorum.
-          </td>
+            <td>Yaklaşık 8 aylık deneyime sahip bir .NET geliştiricisi olarak OOP kavramına oldukça aşinayım. Sağlam ilkeler ve temiz kod bilgisine sahibim. Web API'leri, arka plan hizmetleri ve SignalR uygulamaları oluşturma konusunda güçlü bir geçmişim var.
+ASP.NET MVC'yi kullanma konusunda bilgiliyim ve CQRS, MediatR, MSSQL, PostgreSQL, Entity Framework ve LINQ bilgisine sahibim.
+Yüksek performanslı yazılım oluşturma tutkusuna sahip, kendini adamış ve ayrıntı odaklı bir geliştiriciyim.</td>
           </tr>
           <tr>
             <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" width='96'></td>
