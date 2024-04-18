@@ -1,5 +1,5 @@
 <div>
-  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://github.com/muhammedyucedag/banner/blob/picture/nes.jpeg" alt="Hello world" style="max-width: 100%;"></a>
+  <a rel="noopener noreferrer nofollow"><img src="https://github.com/muhammedyucedag/banner/blob/picture/nes.jpeg" alt="Hello world" style="max-width: 100%;"></a>
  </div>
  
 <br>
