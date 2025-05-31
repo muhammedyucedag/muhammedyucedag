@@ -22,16 +22,11 @@
     <tbody>
         <tr>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='96'></td>
-            <td>.NET geliştiricisi olarak OOP kavramına oldukça aşinayım. Sağlam ilkeler ve temiz kod bilgisine sahibim. Web API'leri, arka plan hizmetleri ve SignalR uygulamaları oluşturma konusunda güçlü bir geçmişim var.
-ASP.NET MVC'yi kullanma konusunda bilgiliyim ve CQRS, Redis, HangFire, MediatR, MSSQL, PostgreSQL, Docker, Onion Architecture, SignalR, Entity Framework bilgisine sahibim.
-Yüksek performanslı yazılım oluşturma tutkusuna sahip, kendini adamış ve ayrıntı odaklı bir geliştiriciyim.</td>
+            <td>Ben Muhammed Yücedağ, yazılım geliştirme alanında yetkinliğe sahibim her geçen gün yazılım alanında kendime deneyimler katmaktayım. Geliştirmeyi ve gelişmeyi seviyorum.. Yazılım tarafında Testing, Clean Architecture, Onion Architecture, Microservice, SignalR, Web Services API, Docker, Keycloak, OOP, Redis, Hangfire, MediatR, LINQ, SOAP API ve Restful API gibi modern teknolojilerle çalışıyor DevOps alanında gelişmeye devam ediyorum.</td>
         </tr>
         <tr>
             <td><img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='96'></td>
-            <td>As a .NET developer, I am quite able to expand into OOP technology. I have solid knowledge of principles and clean code. I have a strong background in building web APIs, backend services, and SignalR applications.
-I am knowledgeable in using ASP.NET MVC and have knowledge of CQRS, Redis, HangFire, MediatR, MSSQL, PostgreSQL, Docker, Onion Architecture, SignalR, Entity Framework.
-I am a dedicated and detail-oriented developer with a passion for creating high-performance software.
-            </td>
+            <td>I am Muhammed Yücedağ, and I have expertise in software development. I continue to gain experience in the field of software each day. I enjoy both improving and evolving. On the software side, I work with modern technologies such as Testing, Clean Architecture, Onion Architecture, Microservices, SignalR, Web Services API, Docker, Keycloak, OOP, Redis, Hangfire, MediatR, LINQ, SOAP API, and RESTful API. Additionally, I am continuing to develop myself in the field of DevOps.</td>
          </tr>
     </tbody>
 </table>
